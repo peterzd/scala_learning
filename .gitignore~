@@ -5,6 +5,3 @@ output/
 
 # Temporary file directory
 tmp/
-.classpath
-.settings
-bin/
